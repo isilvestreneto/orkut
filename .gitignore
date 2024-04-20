@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de ambiente
+.env
+
+# Logs
+logs/
+*.log
+
+# Arquivos gerados
+dist/
+build/
+
+# Dependências de desenvolvimento
+devDependencies/
+
+# Arquivos de configuração
+config/
+
+# Arquivos de backup
+*.bak
+*.swp
